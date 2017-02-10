@@ -1,0 +1,16 @@
+NET "mcd[0]" LOC = "P11";
+NET "mcd[1]" LOC = "L3";
+NET "mcd[2]" LOC = "K3";
+NET "mcd[3]" LOC = "B4";
+NET "multi[0]" LOC = "G3"; 
+NET "multi[1]" LOC = "F3";
+NET "multi[2]" LOC = "E2";
+NET "multi[3]" LOC = "N3";
+NET "prod[0]" LOC = "M5";
+NET "prod[1]" LOC = "M11";
+NET "prod[2]" LOC = "P7";
+NET "prod[3]" LOC = "P6";
+NET "prod[4]" LOC = "N5";
+NET "prod[5]" LOC = "N4";
+NET "prod[6]" LOC = "P4";
+NET "prod[7]" LOC = "G1";

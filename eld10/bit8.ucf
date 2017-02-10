@@ -1,0 +1,11 @@
+NET a[0] LOC = "P11";
+NET a[1] LOC = "L3";
+NET a[2] LOC = "K3";
+NET a[3] LOC = "B4";
+NET a[4] LOC = "G3";
+NET a[5] LOC = "F3";
+NET a[6] LOC = "E2";
+NET a[7] LOC = "N3";
+NET q[2] LOC = "P7";
+NET q[1] LOC = "M11";
+NET q[0] LOC = "M5";
